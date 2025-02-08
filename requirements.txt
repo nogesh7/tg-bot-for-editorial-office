@@ -1,0 +1,7 @@
+
+pytelegrambotapi
+apscheduler==3.11.0
+spire==0.4.2
+docx
+Spire.Doc
+exceptions
